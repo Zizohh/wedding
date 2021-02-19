@@ -5,7 +5,7 @@
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "Agency is a one page HTML theme for Bootstrap.",
+    "description": "This was built to count down to the day of an event ",
     "keywords": [
         "css",
         "sass",
